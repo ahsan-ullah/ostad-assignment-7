@@ -1,5 +1,5 @@
 # ostad-assignment-7 
-![OSTAD - Assignment7](https://cdn.ostad.app/public/upload/2023-10-17T07-14-50.690Z-Logo-new.png) Format: ![Alt Text](url) 
+![OSTAD - Assignment7](https://cdn.ostad.app/public/upload/2023-10-17T07-14-50.690Z-Logo-new.png)
 
 ## Laravel Installation
 
