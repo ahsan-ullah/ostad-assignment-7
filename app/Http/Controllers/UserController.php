@@ -18,9 +18,16 @@ class UserController extends Controller
     /**
      * Show the form for creating a new resource.
      */
-    public function create()
+    public function login($request_email, $request_password)
     {
-        //
+        $email = "ahsanullah@gmail.com";
+        $password = "123456789";
+        if($email == $request_email && $password == $request_password) {
+
+            return "Login Successful";
+        } else {
+            return "Login is Invalid";
+        }
     }
 
     /**
